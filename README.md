@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Maimuna Zaheer
-- 📫 Reach me on my linkedin : maimuna-zaheer
+I’m Maimuna Zaheer
 
 <!---
 itserror404/itserror404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
